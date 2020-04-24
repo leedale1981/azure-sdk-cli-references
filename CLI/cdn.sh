@@ -1,0 +1,2 @@
+az cdn profile create -g ExamExampleResources -n leetestcdn --sku Standard_Microsoft --location northeurope
+az cdn endpoint create -g ExamExampleResources -n leetestendpoint --profile-name leetestcdn --origin example.azurewebsites.net -l northeurope

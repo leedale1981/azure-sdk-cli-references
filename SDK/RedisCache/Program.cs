@@ -5,7 +5,7 @@ namespace RedisCache
 {
     class Program
     {
-        private static string ConnectionString = "LeeTestCache.redis.cache.windows.net:6380,password=QAOsdhy5TiUVF9Je2GRXPCZY0b+eHKgCAud9ocV4th8=,ssl=True,abortConnect=False";
+        private static string ConnectionString = "";
         private static Lazy<ConnectionMultiplexer> LazyConnection = new Lazy<ConnectionMultiplexer>(() => {
             return ConnectionMultiplexer.Connect(ConnectionString);
         });

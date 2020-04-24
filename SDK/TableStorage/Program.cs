@@ -10,7 +10,7 @@ namespace TableStorage
     {
         static async Task Main(string[] args)
         {
-            CloudStorageAccount account = CloudStorageAccount.Parse("DefaultEndpointsProtocol=https;AccountName=leedaleteststorage;AccountKey=//S1ohrGGFaDrIp+iIjGWzMwHTXN6hvESIi37AGiUnBiOm+4sgTCC0mNe8mwmpGD02fQ5PTF2UMhe7u2af2oVg==;EndpointSuffix=core.windows.net");
+            CloudStorageAccount account = CloudStorageAccount.Parse("");
             CloudTable table = await CreateTable(account);
             var entity = await InsertOrMergeEntityAsync(table, new CustomerEntity("Dale", "Lee") { Email = "lee.jdale@gmail.com" });
 
