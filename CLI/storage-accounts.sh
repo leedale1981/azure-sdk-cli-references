@@ -1,0 +1,2 @@
+az storage account create -n leedaleteststorage -g ExamExampleResources -l uksouth --sku Standard_LRS
+az storage table create -n LeeTestTable --connection-string "DefaultEndpointsProtocol=https;AccountName=leedaleteststorage;AccountKey=//S1ohrGGFaDrIp+iIjGWzMwHTXN6hvESIi37AGiUnBiOm+4sgTCC0mNe8mwmpGD02fQ5PTF2UMhe7u2af2oVg==;EndpointSuffix=core.windows.net"

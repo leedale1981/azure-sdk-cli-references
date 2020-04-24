@@ -1,0 +1,1 @@
+az search service create --name "lee-test-search" --resource-group "ExamExampleResources" --sku "Free"

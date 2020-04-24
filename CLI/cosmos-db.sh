@@ -1,0 +1,1 @@
+az cosmosdb create --name ExampleCosmosDb --resource-group ExamExampleResources --locations regionName=eastus failoverPriority=0 isZoneRedundant=False --locations regionName=uksouth failoverPriority=1 isZoneRedundant=True

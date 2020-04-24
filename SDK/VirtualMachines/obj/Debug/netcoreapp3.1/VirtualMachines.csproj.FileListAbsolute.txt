@@ -1,0 +1,13 @@
+D:\src\Examples\AzureExamples\SDK\VirtualMachines\bin\Debug\netcoreapp3.1\VirtualMachines.exe
+D:\src\Examples\AzureExamples\SDK\VirtualMachines\bin\Debug\netcoreapp3.1\VirtualMachines.deps.json
+D:\src\Examples\AzureExamples\SDK\VirtualMachines\bin\Debug\netcoreapp3.1\VirtualMachines.runtimeconfig.json
+D:\src\Examples\AzureExamples\SDK\VirtualMachines\bin\Debug\netcoreapp3.1\VirtualMachines.runtimeconfig.dev.json
+D:\src\Examples\AzureExamples\SDK\VirtualMachines\bin\Debug\netcoreapp3.1\VirtualMachines.dll
+D:\src\Examples\AzureExamples\SDK\VirtualMachines\bin\Debug\netcoreapp3.1\VirtualMachines.pdb
+D:\src\Examples\AzureExamples\SDK\VirtualMachines\obj\Debug\netcoreapp3.1\VirtualMachines.csprojAssemblyReference.cache
+D:\src\Examples\AzureExamples\SDK\VirtualMachines\obj\Debug\netcoreapp3.1\VirtualMachines.csproj.CoreCompileInputs.cache
+D:\src\Examples\AzureExamples\SDK\VirtualMachines\obj\Debug\netcoreapp3.1\VirtualMachines.AssemblyInfoInputs.cache
+D:\src\Examples\AzureExamples\SDK\VirtualMachines\obj\Debug\netcoreapp3.1\VirtualMachines.AssemblyInfo.cs
+D:\src\Examples\AzureExamples\SDK\VirtualMachines\obj\Debug\netcoreapp3.1\VirtualMachines.dll
+D:\src\Examples\AzureExamples\SDK\VirtualMachines\obj\Debug\netcoreapp3.1\VirtualMachines.pdb
+D:\src\Examples\AzureExamples\SDK\VirtualMachines\obj\Debug\netcoreapp3.1\VirtualMachines.genruntimeconfig.cache
